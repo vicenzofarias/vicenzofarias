@@ -20,8 +20,4 @@
   
 <div>
   <a href="https://www.linkedin.com/in/vicenzo-farias-835586197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
-![Snake animation](https://github.com/vicenzofarias/vicenzofarias/blob/output/github-contribution-grid-snake.svg)
-
-  </div>
+</div>
