@@ -2,7 +2,7 @@
 
 - 📚 Estudando ADS
 - 🎮 Gosto de jogos
-- 🎯 Meu objetivo é ser um front-end e um designer UX/UI
+- 🎯 Meu objetivo é ser um UI/UX Designer
 
 ##
 
