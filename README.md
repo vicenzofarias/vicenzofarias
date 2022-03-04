@@ -4,7 +4,7 @@
 
 - 📚 Atualmente estou estudando UI/UX Design na [Alura](https://www.alura.com.br/) , [FrontPUSH 2.0](https://www.frontpush.com.br/) e cursos na Udemy.
 
-- 🎯 Meu objetivo é ser um UI Designer
+- 🎯 Meu objetivo é ser um UI Designer ou UX Designer
 
 - 💬 Sei um pouco sobre **UI/UX, HTML, CSS, JS, Bootstrap, Figma, AdobeXD**
 
