@@ -1,4 +1,4 @@
-<h1 align="center">Eae ✌, meu nome é Vicenzo</h1>
+<h1 align="center">🙋🏾‍♂️ Opa, me chamo Vicenzo Farias!</h1>
 <h3 align="center">Sou estudante de ADS mas apaixonado por UX/UI</h3>
 
 
