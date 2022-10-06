@@ -2,7 +2,7 @@
 <h3 align="center">Sou estudante de ADS mas apaixonado por UX/UI</h3>
 
 
-- 📚 Atualmente estou estudando UI/UX Design na [Alura](https://www.alura.com.br/) , [FrontPUSH 2.0](https://www.frontpush.com.br/) e cursos na Udemy.
+- 📚 Atualmente estou estudando UI/UX Design na [Alura](https://www.alura.com.br/) , [FrontPUSH 2.0](https://www.frontpush.com.br/) , [UIPro](https://www.uipro.com.br/) e [Curso de Figma](https://cursodefigma.com/).
 
 - 🎯 Meu objetivo é ser um UI Designer ou UX Designer
 
